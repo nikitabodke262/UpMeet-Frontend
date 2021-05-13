@@ -1,0 +1,7 @@
+<div class="container-fluid bg-dark text-light">
+
+<p class="text-center mb-0">
+Copyright UpMeet- Hobby Platform 2021 | All rights are reserved 
+
+</p>
+</div>
